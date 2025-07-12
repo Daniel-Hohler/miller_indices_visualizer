@@ -1,5 +1,7 @@
 # Overview
-Features
+**Features**
+
+
 3D visualization of Miller indices in a cubic crystal structure
 
 Calculates lattice parameter and diffraction angle using Bragg’s Law
@@ -14,14 +16,18 @@ Archives inputs/outputs the last result per material to .xlsx file
 
 Archives inputs/outputs all results into .txt file
 
-User Inputs
+**User Inputs**
+
+
 Miller indices: h, k, l
 
 Interplanar spacing d (nm)
 
 Wavelength (selected from .xlsx material file)
 
-Outputs
+**Outputs**
+
+
 3D visual of Miller planes
 
 Lattice parameter
@@ -32,7 +38,9 @@ Diffraction angle
 
 .txt archive log of all runs
 
-Function Workflow
+**Function Workflow**
+
+
 Ask user whether to visualize, calculate, or both
 
 Validate and save Miller indices
