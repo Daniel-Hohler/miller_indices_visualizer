@@ -1,0 +1,5 @@
+Material: Iron, h: 1, k: 1, l: 1, d: 0.4540 nm, λ: 0.1936 nm, 2θ: 24.62, a = 0.7864 nm 
+Material: Cobalt, h: 2, k: 2, l: 2, d: 0.3620 nm, λ: 0.1789 nm, 2θ: 28.61, a = 1.2540 nm 
+Material: Copper, h: 1, k: 1, l: 1, d: 0.4530 nm, λ: 0.1541 nm, 2θ: 19.58, a = 0.7846 nm 
+Material: Copper, h: 1, k: 1, l: 1, d: 0.4530 nm, λ: 0.1541 nm, 2θ: 19.58, a = 0.7846 nm 
+Material: iron, h: 1, k: 0, l: 1, d: 0.7620 nm, λ: 0.1936 nm, 2θ: 14.60, a = 1.0776 nm 
